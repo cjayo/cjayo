@@ -1,10 +1,10 @@
 ### Hey, what's up guys 👋
 
 > What am I working on?
-> > I'm working on Unity game development and C# to learn how to develop my own video games!
+> > I'm working on Unreal Engine to learn how to develop my own video games!
 > > 
 > Favourite type of game to play and what is your most played video game?
-> > Difficult games, but games that tell a interesting story are very cool also. My most played video game right now is Overwatch with like 500 hours or something
+> > Difficult games, but games that have interesting narratives are also pretty cool My most played video game right now has to be Overwatch with like 500 hours or something
 > > 
 > First game I played on PC?
 > > A MMORPG called [Spiral Knights](https://store.steampowered.com/app/99900/Spiral_Knights/) , *didn't beat it though, got stuck on the Royal Jelly boss, that spin attack is so overpowered*
